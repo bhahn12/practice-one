@@ -13,7 +13,7 @@
         <p>Are you too busy at work to maintain your lawn? <br></br>
            Do you want to spend your free time with friends and family instead of cutting grass?<br></br>
            My team and I have been cutting lawns in the Mercer County area for the last 25 years .
-           We are offering our services  </p> 
+           We are offering our service  </p> 
     </body>
 </html>
 
